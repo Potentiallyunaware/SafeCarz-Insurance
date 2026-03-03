@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+}
+
+section {
+  width: 100vw;
+  height: 100vh;
+  background: #353535;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.logo {
+  width: 350.71px;
+  height: 408px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.disc {
+  position: absolute;
+  animation-name: rotate;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state:running;
+  transition: all .3s;
+  height: 189.44px;
+  width: 189.44px;
+}
+
+.caliper {
+  position: absolute;
+  right: 65px;
+  top: 90px;
+  transform: scale(1.1);
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

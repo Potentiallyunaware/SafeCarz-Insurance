@@ -1,0 +1,20 @@
+Insurers:
+	1. Jubilee Car Insurance
+	2. TPL Car Insurance
+	3. UIC Car Insurance
+
+Car Insurance:
+	1. Toyota 
+		> a. Corolla 	b. Prius Prime
+	2. KIA
+		> a. Sportage	b. Carnival
+	3. Suzuki
+		> a. Alto 		b. Swift
+
+Bike Insurance:
+	1. Ducati
+		> a. Panigale V4S	b. Hypermotard 95 RVE
+	2. Benelli
+		> a. Leoncino 500	b. 502C
+	3. Kawasaki
+		> a. Ninja H2R	b. Z650rs
