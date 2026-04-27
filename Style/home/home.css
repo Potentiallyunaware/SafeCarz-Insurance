@@ -169,7 +169,7 @@ body section {
 body section:nth-of-type(1) {
   width: 100vw;
   height: 100vh;
-  background: url(https://toyota-indus.com/wp-content/uploads/2023/01/Toyota-Camry-KV-res.jpg);
+  background: url('https://toyota-indus.com/wp-content/uploads/2023/01/Toyota-Camry-KV-res.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
