@@ -231,25 +231,25 @@ body .minisection:nth-of-type(1) .bsection .brand .model:hover .shade {
   bottom: -50px;
 }
 body .minisection:nth-of-type(1) .bsection .brand .tc {
-  background: url(https://toyotaassets.scene7.com/is/image/toyota/COR_MY23_0005_V001_nRuOM83Kk9Z?wid=1440&fmt=jpg&fit=crop);
+  background: url('https://toyotaassets.scene7.com/is/image/toyota/COR_MY23_0005_V001_nRuOM83Kk9Z?wid=1440&fmt=jpg&fit=crop');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 body .minisection:nth-of-type(1) .bsection .brand .tpp {
-  background: url(https://toyotaassets.scene7.com/is/image/toyota/PRP_MY20_0001_V002?wid=2000&fmt=jpg&fit=crop);
+  background: url('https://toyotaassets.scene7.com/is/image/toyota/PRP_MY20_0001_V002?wid=2000&fmt=jpg&fit=crop');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 body .minisection:nth-of-type(1) .bsection .brand .sportage {
-  background: url(https://eu-www.kia.com/content/dam/kwcms/kme/global/en/assets/360vr/sportage-my21/AA9-infra-red/19AlloyWheel_my19/kia-sportage-qlpemy21-aa9infrared-19_0000.jpg);
+  background: url('https://eu-www.kia.com/content/dam/kwcms/kme/global/en/assets/360vr/sportage-my21/AA9-infra-red/19AlloyWheel_my19/kia-sportage-qlpemy21-aa9infrared-19_0000.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 body .minisection:nth-of-type(1) .bsection .brand .carnival {
-  background: url(https://cache1.pakwheels.com/system/car_generation_pictures/5371/original/carnival-cover.jpg?1607335938);
+  background: url('https://cache1.pakwheels.com/system/car_generation_pictures/5371/original/carnival-cover.jpg?1607335938');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
